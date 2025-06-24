@@ -51,17 +51,14 @@
         <mxCell id="u840K_bzkpuhKR3cS9Si-18" value="&lt;div&gt;Lost to follow-up (such aswithdrawal from the app, donot respond to questions)&lt;/div&gt;&lt;div&gt;Or&lt;/div&gt;&lt;div&gt;follow-up&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="585" width="170" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="u840K_bzkpuhKR3cS9Si-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u840K_bzkpuhKR3cS9Si-20" target="u840K_bzkpuhKR3cS9Si-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="u840K_bzkpuhKR3cS9Si-20" value="&lt;div&gt;Lost to follow-up (such aswithdrawal from the app, donot respond to questions)&lt;/div&gt;&lt;div&gt;Or&lt;/div&gt;&lt;div&gt;follow-up&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="585" width="170" height="95" as="geometry" />
         </mxCell>
         <mxCell id="u840K_bzkpuhKR3cS9Si-22" value="Analysis&lt;div&gt;or&lt;/div&gt;&lt;div&gt;exclude from analysis&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="227.5" y="720" width="135" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u840K_bzkpuhKR3cS9Si-24" value="&lt;div&gt;Lost to follow-up (such aswithdrawal from the app, donot respond to questions)&lt;/div&gt;&lt;div&gt;Or&lt;/div&gt;&lt;div&gt;follow-up&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="760" width="170" height="95" as="geometry" />
+        <mxCell id="u840K_bzkpuhKR3cS9Si-26" value="Analysis&lt;div&gt;or&lt;/div&gt;&lt;div&gt;exclude from analysis&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="457.5" y="720" width="135" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
