@@ -72,8 +72,8 @@
         <mxCell id="u840K_bzkpuhKR3cS9Si-31" value="&lt;span style=&quot;font-size: 13px; text-wrap: nowrap;&quot;&gt;&lt;b&gt;Follow-up&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px; text-wrap: nowrap;&quot;&gt;&lt;b&gt;to 26 weeks&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="617.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u840K_bzkpuhKR3cS9Si-32" value="&lt;span style=&quot;font-size: 13px; text-wrap: nowrap;&quot;&gt;&lt;b&gt;Follow-up&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px; text-wrap: nowrap;&quot;&gt;&lt;b&gt;to 26 weeks&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="627.5" width="60" height="30" as="geometry" />
+        <mxCell id="u840K_bzkpuhKR3cS9Si-32" value="&lt;span style=&quot;font-size: 13px; text-wrap: nowrap;&quot;&gt;&lt;b&gt;Analysis&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px; text-wrap: nowrap;&quot;&gt;&lt;b&gt;3 months&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="735" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
