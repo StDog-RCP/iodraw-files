@@ -54,8 +54,8 @@
         <mxCell id="u840K_bzkpuhKR3cS9Si-20" value="&lt;div&gt;Lost to follow-up (such aswithdrawal from the app, donot respond to questions)&lt;/div&gt;&lt;div&gt;Or&lt;/div&gt;&lt;div&gt;follow-up&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="585" width="170" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="u840K_bzkpuhKR3cS9Si-22" value="Analysis&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Exclude from analysis&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="235" y="740" width="120" height="60" as="geometry" />
+        <mxCell id="u840K_bzkpuhKR3cS9Si-22" value="Analysis&lt;div&gt;or&lt;/div&gt;&lt;div&gt;exclude from analysis&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="740" width="135" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
