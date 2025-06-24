@@ -16,13 +16,13 @@
         <mxCell id="u840K_bzkpuhKR3cS9Si-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u840K_bzkpuhKR3cS9Si-2" target="u840K_bzkpuhKR3cS9Si-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u840K_bzkpuhKR3cS9Si-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.528;entryY=0.111;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="u840K_bzkpuhKR3cS9Si-2" target="u840K_bzkpuhKR3cS9Si-10">
+        <mxCell id="u840K_bzkpuhKR3cS9Si-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="u840K_bzkpuhKR3cS9Si-2" target="u840K_bzkpuhKR3cS9Si-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="460" as="targetPoint" />
+            <mxPoint x="533" y="390" as="targetPoint" />
             <Array as="points">
               <mxPoint x="410" y="400" />
-              <mxPoint x="430" y="400" />
-              <mxPoint x="430" y="427" />
+              <mxPoint x="533" y="400" />
+              <mxPoint x="533" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
