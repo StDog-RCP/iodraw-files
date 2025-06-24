@@ -45,11 +45,17 @@
         <mxCell id="u840K_bzkpuhKR3cS9Si-17" value="Allocate to&lt;div&gt;&#39;CBT text only&#39;&lt;/div&gt;&lt;div&gt;intervention&lt;/div&gt;&lt;div&gt;&lt;div&gt;(n=600)&lt;/div&gt;&lt;div&gt;1. Receive entire control&lt;/div&gt;&lt;div&gt;intervention&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;or&lt;/span&gt;&lt;/div&gt;&lt;div&gt;2.Discontinue intervention&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="420" width="170" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="u840K_bzkpuhKR3cS9Si-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u840K_bzkpuhKR3cS9Si-18" target="u840K_bzkpuhKR3cS9Si-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u840K_bzkpuhKR3cS9Si-18" value="&lt;div&gt;Lost to follow-up (such aswithdrawal from the app, donot respond to questions)&lt;/div&gt;&lt;div&gt;Or&lt;/div&gt;&lt;div&gt;follow-up&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="585" width="170" height="95" as="geometry" />
         </mxCell>
         <mxCell id="u840K_bzkpuhKR3cS9Si-20" value="&lt;div&gt;Lost to follow-up (such aswithdrawal from the app, donot respond to questions)&lt;/div&gt;&lt;div&gt;Or&lt;/div&gt;&lt;div&gt;follow-up&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="585" width="170" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="u840K_bzkpuhKR3cS9Si-22" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="777.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
