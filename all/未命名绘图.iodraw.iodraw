@@ -16,9 +16,14 @@
         <mxCell id="u840K_bzkpuhKR3cS9Si-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u840K_bzkpuhKR3cS9Si-2" target="u840K_bzkpuhKR3cS9Si-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u840K_bzkpuhKR3cS9Si-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u840K_bzkpuhKR3cS9Si-2">
+        <mxCell id="u840K_bzkpuhKR3cS9Si-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.528;entryY=0.111;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="u840K_bzkpuhKR3cS9Si-2" target="u840K_bzkpuhKR3cS9Si-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="400" />
+              <mxPoint x="430" y="400" />
+              <mxPoint x="430" y="427" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="u840K_bzkpuhKR3cS9Si-2" value="Randomization&lt;div&gt;(n= or &amp;gt; 1200&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
